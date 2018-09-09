@@ -8,5 +8,11 @@ namespace SuperShop.BusinessLayer
 {
     public class Class1
     {
+        public void ThisIsNaeme()
+        {
+            var myVeriable = "dragon13";
+        }
+
+
     }
 }

@@ -3,6 +3,8 @@
 // ARGUMENTS
 //////////////////////////////////////////////////////////////////////
 
+// SonarQube analysis: https://cakebuild.net/api/Cake.Sonar/SonarCakeAliases/
+// 
 
 var target = Argument("target", "Default");
 var configuration = Argument("configuration", "Release");
